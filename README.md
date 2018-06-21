@@ -1,2 +1,2 @@
 # react-todo
-入门的react demo，运行npm run dev
+结合redux的react demo，运行npm run dev
