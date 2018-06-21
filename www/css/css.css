@@ -1,0 +1,49 @@
+.box{
+    width: 500px;
+    height: 300px;
+    margin: 200px 400px;
+}
+
+.box .head{
+    padding-bottom: 20px;
+    width:400px;
+}
+.box .head input{
+   width: 300px;
+   height: 20px;
+   padding:5px;
+}
+.box .head button{
+    height: 34px;
+    width: 80px;
+    background: blueviolet;
+    border-radius: 3px;
+}
+.body .todo{
+    position: relative;
+    margin-bottom: 10px;
+}
+.body .todo input{
+   margin-right:10px; 
+
+}
+.body .todo button{
+  position: absolute;
+  width: 80px;
+  left: 318px;
+}
+.footer{
+    width: 400px;
+}
+.footer button{
+    width: 33.33%;
+    border-radius:1px; 
+    height: 50px;
+}
+.footer span{
+    font-weight: bold;
+    color: red;
+}
+.cur{
+    background: green
+}
